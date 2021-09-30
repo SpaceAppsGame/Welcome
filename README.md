@@ -1,3 +1,12 @@
+Hi and welcome!
+
+Ask @amartya / exebo if you need special access to avatar /avatar-model 
+Ask @andywhosnext / AndriiAndrus if you need access to addition scripts and the scene
+
+
+
+
+
 Unity3D Good Practices
 ==================
 
